@@ -55,7 +55,73 @@
                 "cost": 1300,
                 "borrowed": false,
                 "id":2
+          },
+
+          {
+            "image_url": "https://images.interestingengineering.com/images/DECEMBER/best_science_books_Brief_History.jpg",
+            "book_name": " A brief history of time",
+            "author": "stephan Hawkings",
+                "genre": "science",
+                "edition": "2021",
+                "publisher": "penguin",
+                "cost": 480,
+                "borrowed": false,
+                "id":3
+          },
+
+
+          {
+            "image_url": "https://images.interestingengineering.com/images/DECEMBER/best_science_books_cosmos.jpg",
+            "book_name": " Cosmos",
+            "author": "cosmos",
+                "genre": "science",
+                "edition": "2021",
+                "publisher": "penguin",
+                "cost": 380,
+                "borrowed": false,
+                "id":4
+          },
+
+
+
+          {
+            "image_url": "https://img.theculturetrip.com/wp-content/uploads/2017/12/the-last-mughal-bloomsbury.jpg",
+            "book_name": " Last Mughals",
+            "author": "Ravi dev",
+                "genre": "history",
+                "edition": "2021",
+                "publisher": "penguin",
+                "cost": 685,
+                "borrowed": false,
+                "id":5
+          },
+
+          {
+            "image_url": "https://i.insider.com/59bab5bb38d20d3c098b6012?width=1000&format=jpeg&auto=webp",
+            "book_name": "Innovations and its enimies ",
+            "author": "Jhuma",
+                "genre": "tech",
+                "edition": "2022",
+                "publisher": "penguin",
+                "cost": 425,
+                "borrowed": false,
+                "id":6
+          },
+
+
+          {
+            "image_url": "https://m.media-amazon.com/images/I/51Mw850UIpL.jpg",
+            "book_name": "Small Bussiness Ideas ",
+            "author": "Justin",
+                "genre": "bussiness",
+                "edition": "2022",
+                "publisher": "penguin",
+                "cost": 763,
+                "borrowed": false,
+                "id":8
           }
+
+
 
 
 
