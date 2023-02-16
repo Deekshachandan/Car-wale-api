@@ -1,129 +1,162 @@
 {
-    "cars": [
-        {
-            "id": 1,
-            "brand": "Tata",
-            "type": "Manual",
-            "year": 2019,
-            "kms": 10000,
-            "Description": "Tata Altroz with all original documents",
-            "Price": 500000
-        },
-        {
-            "id": 2,
-            "brand": "Tata",
-            "type": "AMT",
-            "year": 2017,
-            "kms": 8000,
-            "Description": "Tata Nexon with all original documents",
-            "Price": 800000
-        }
-    ],
-    "wishlist": [
-        {
-            "id": 1,
-            "brand": "Tata",
-            "year": 2019,
-            "type": "Manual",
-            "kms": 10000,
-            "Description": "Tata Altroz with all original documents",
-            "Price": 500000
-        }
-    ],
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 2,
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    }
+  ],
 
-    "books":[
-        {
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Harry Potter and the Philosopher's Stone",
-            "author": "J. K. Rowling",
-                "genre": "fiction",
-                "edition": "2021",
-                "publisher": "Bloomsbury",
-                "cost": 1299,
-                "borrowed": false,
-                "id":1
+  "books": [
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false,
+      "id": 1
+    },
 
-          },
+    {
+      "image_url": "https://d3i5mgdwi2ze58.cloudfront.net/ohbd3xqukj7do2f0o5txmhghfsva",
+      "book_name": " In Search of Lost Time by Marcel Proust",
+      "author": "Marcel Proust",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "penguin",
+      "cost": 1300,
+      "borrowed": false,
+      "id": 2
+    },
 
-          {
-            "image_url": "https://d3i5mgdwi2ze58.cloudfront.net/ohbd3xqukj7do2f0o5txmhghfsva",
-            "book_name": " In Search of Lost Time by Marcel Proust",
-            "author": "Marcel Proust",
-                "genre": "fiction",
-                "edition": "2021",
-                "publisher": "penguin",
-                "cost": 1300,
-                "borrowed": false,
-                "id":2
-          },
+    {
+      "image_url": "https://images.interestingengineering.com/images/DECEMBER/best_science_books_Brief_History.jpg",
+      "book_name": " A brief history of time",
+      "author": "stephan Hawkings",
+      "genre": "science",
+      "edition": "2021",
+      "publisher": "penguin",
+      "cost": 480,
+      "borrowed": false,
+      "id": 3
+    },
 
-          {
-            "image_url": "https://images.interestingengineering.com/images/DECEMBER/best_science_books_Brief_History.jpg",
-            "book_name": " A brief history of time",
-            "author": "stephan Hawkings",
-                "genre": "science",
-                "edition": "2021",
-                "publisher": "penguin",
-                "cost": 480,
-                "borrowed": false,
-                "id":3
-          },
+    {
+      "image_url": "https://images.interestingengineering.com/images/DECEMBER/best_science_books_cosmos.jpg",
+      "book_name": " Cosmos",
+      "author": "cosmos",
+      "genre": "science",
+      "edition": "2021",
+      "publisher": "penguin",
+      "cost": 380,
+      "borrowed": false,
+      "id": 4
+    },
 
+    {
+      "image_url": "https://img.theculturetrip.com/wp-content/uploads/2017/12/the-last-mughal-bloomsbury.jpg",
+      "book_name": " Last Mughals",
+      "author": "Ravi dev",
+      "genre": "history",
+      "edition": "2021",
+      "publisher": "penguin",
+      "cost": 685,
+      "borrowed": false,
+      "id": 5
+    },
 
-          {
-            "image_url": "https://images.interestingengineering.com/images/DECEMBER/best_science_books_cosmos.jpg",
-            "book_name": " Cosmos",
-            "author": "cosmos",
-                "genre": "science",
-                "edition": "2021",
-                "publisher": "penguin",
-                "cost": 380,
-                "borrowed": false,
-                "id":4
-          },
+    {
+      "image_url": "https://i.insider.com/59bab5bb38d20d3c098b6012?width=1000&format=jpeg&auto=webp",
+      "book_name": "Innovations and its enimies ",
+      "author": "Jhuma",
+      "genre": "tech",
+      "edition": "2022",
+      "publisher": "penguin",
+      "cost": 425,
+      "borrowed": false,
+      "id": 6
+    },
 
+    {
+      "image_url": "https://m.media-amazon.com/images/I/51Mw850UIpL.jpg",
+      "book_name": "Small Bussiness Ideas ",
+      "author": "Justin",
+      "genre": "bussiness",
+      "edition": "2022",
+      "publisher": "penguin",
+      "cost": 763,
+      "borrowed": false,
+      "id": 8
+    }
+  ],
 
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@stockbroker.com",
+      "password": "admin123"
+    },
 
-          {
-            "image_url": "https://img.theculturetrip.com/wp-content/uploads/2017/12/the-last-mughal-bloomsbury.jpg",
-            "book_name": " Last Mughals",
-            "author": "Ravi dev",
-                "genre": "history",
-                "edition": "2021",
-                "publisher": "penguin",
-                "cost": 685,
-                "borrowed": false,
-                "id":5
-          },
+    {
+      "id": 2,
+      "name": "hari",
+      "email": "hari@gmail.com",
+      "password": "hari"
+    }
+  ],
 
-          {
-            "image_url": "https://i.insider.com/59bab5bb38d20d3c098b6012?width=1000&format=jpeg&auto=webp",
-            "book_name": "Innovations and its enimies ",
-            "author": "Jhuma",
-                "genre": "tech",
-                "edition": "2022",
-                "publisher": "penguin",
-                "cost": 425,
-                "borrowed": false,
-                "id":6
-          },
+  "stocks": [
+    
+      {
+        "id": 1,
+        "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
+        "company_name": "HDFC Bank",
+        "company_type": "Bank",
+        "stock_exchange": "NSE",
+        "total_shares": 50000,
+        "cost_per_share": 4210,
+        "price_action": 12
+      },
+      {
+        "id": 2,
+        "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+        "company_name": "Reliance Industries",
+        "company_type": "Oil",
+        "stock_exchange": "BSE",
+        "total_shares": 20000,
+        "cost_per_share": 2132,
+        "price_action": 4
+      }
+    
+  ],
 
-
-          {
-            "image_url": "https://m.media-amazon.com/images/I/51Mw850UIpL.jpg",
-            "book_name": "Small Bussiness Ideas ",
-            "author": "Justin",
-                "genre": "bussiness",
-                "edition": "2022",
-                "publisher": "penguin",
-                "cost": 763,
-                "borrowed": false,
-                "id":8
-          }
-
-
-
-
-
-    ]
+  "buy":[{}]
 }
